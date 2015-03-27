@@ -13,3 +13,8 @@ $db['default']['database'] = 'codelogin'; //Nombre de la base de datos.<br>
 
 <p>Usuario: admin@admin.com<br>
 Contraseña: password</p>
+
+<p>Tener en cuenta que se está utilizando <a href="http://purecss.io/">PureCss</a> para los estilos css y se hace referencia a los cdn de Yahoo <i>"application/views/header.php"</i></p>
+<pre>
+<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
+</pre>
