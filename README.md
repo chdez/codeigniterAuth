@@ -10,3 +10,6 @@ $db['default']['database'] = 'codelogin'; //Nombre de la base de datos.<br>
 </pre>
 
 <p>La documentación para la libreria que se está utilizando la pueden encontrar en el blog de <a href="http://benedmunds.com/ion_auth/">Ben Edmunds</a></p>
+
+<p>Usuario: admin@admin.com<br>
+Contraseña: password</p>
