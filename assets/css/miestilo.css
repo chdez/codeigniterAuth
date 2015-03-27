@@ -1,0 +1,80 @@
+body{
+    
+}
+
+a{
+    color: #6bbdff;
+    text-decoration: none;
+}
+
+.contform{
+    background: white;
+    margin: auto;
+    width: 300px;
+    padding: 15px;
+    box-shadow: 0px 0px 1px;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+
+.contform input[type="text"], input[type="password"]{
+    width: 100%;    
+}
+
+#infoMessage > p{
+    padding: 5px;
+    background: #1f8dd6;
+    color: white;
+    border-radius: 3px;
+}
+
+#main{
+    background: url('../images/download.jpg') center no-repeat fixed;
+    background-size: cover;
+    //background: rgba(255,255,255,0.8);
+    padding: 20px;
+    position: fixed;
+    height: 100%;
+    //width: calc(100% - 190px);
+    //width: 100%;
+    overflow: auto;
+    
+}
+
+.side{
+    width: calc(100% - 190px);
+}
+.no-side{
+    width: 100%;
+}
+
+.flotante{
+    background: rgba(255,255,255,0.9);
+    margin: auto;
+    padding: 20px;
+    box-shadow: 0px 0px 1px;
+    max-width: 700px;
+}
+
+.profile{
+    background: white;
+    margin: auto;
+    padding: 20px;
+    box-shadow: 0px 0px 1px;
+    max-width: 450px;
+    border-radius: 4px;
+}
+
+.foto{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    margin: auto;
+    background: red;
+    background: url('http://loremflickr.com/200/200/people');
+    border: solid 6px #6bbdff;
+}
+
+.descripcion{
+    text-align: center;
+}
