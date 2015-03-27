@@ -1,7 +1,7 @@
 <p>Para configurar tu proyecto debes hacer algunos cambios, el promero es cambiar la URL Base, en archivo de configuracion <i>"aplication/config/config.php"</i></p>
 <pre>$config['base_url']	= 'http://localhost/todo/';</pre>
 
-<p>Los datos de conexion para la base de datos <i>"aplication/config/config.php"</i> </p>
+<p>Los datos de conexion para la base de datos <i>"aplication/config/database.php"</i> </p>
 <pre>
 $db['default']['hostname'] = 'localhost'; //Servidor<br>
 $db['default']['username'] = 'root'; //Usuario<br>
